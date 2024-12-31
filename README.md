@@ -39,6 +39,7 @@ I've participated in hackathons like Reckon and other national-level events, hon
 
 #### 🤝 Let's Connect:
 - Check out my work and contributions here on GitHub!  
-- Connect with me on [LinkedIn] https://www.linkedin.com/in/ankush-raj-403458297/.  
+- Connect with me on LinkedIn https://www.linkedin.com/in/ankush-raj-403458297/.
+- dm me on x -  https://x.com/spytro_26
 
 Let's collaborate on exciting projects and make the world a little better with code! 😊
